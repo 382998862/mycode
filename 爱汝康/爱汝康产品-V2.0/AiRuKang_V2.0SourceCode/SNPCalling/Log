@@ -1,0 +1,4 @@
+mv SNPCalling.pl backup_SNPCalling.pl
+cp /home/tengwj/workdir/Workspace/49.mark_duplicate/test_Analysis/SNPCalling.pl ./
+ cp /share/nas1/tengwj/Workspace/55.Technology_Files/pipeline/SNPCalling.pl ./
+cp /share/nas1/tengwj/Workspace/55.Technology_Files/pipeline/SNPCalling.pl SNPCalling_v2.0.pl

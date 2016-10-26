@@ -1,0 +1,1 @@
+R03	/home/tengwj/workdir/30.Test/05.try/22-testsample_new/SNP/Filtered/test.R03.sort.recal.ug.filtered.vcf
